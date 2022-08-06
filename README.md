@@ -1,4 +1,4 @@
-# 2022-Y3CEP
+# 2022-Y3CEP_Martin Joe Prem Kumar WA3
 > Quick guide to markdown syntax: https://www.markdownguide.org/basic-syntax/
 
 > Using Git without command line: https://pixelpioneers.co/blog/2017/using-github-without-the-command-line
