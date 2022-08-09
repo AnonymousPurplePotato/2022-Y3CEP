@@ -20,23 +20,23 @@
 > Example of an implementation of this game
 >> The scrambled word is CSRWODROS. Type the correct word in the blank below.
 > Route Planner
->> Choose "Route Planner"
->> The program will reply "Where would you like to go today?" (show list of commonly visited places)
->> The user must choose an option
->> The program will show a miniature figure walking to that place on a route picked by the GPS on a map.
->> The program will reply "Where would you like to go next?" (show list of commonly visited places)
->> The user must choose an option
->> The program will show a miniature figure walking to that place on a route picked by the GPS on a map.
->> Note: 
->> Show "Would you like to exit this application?" every time before showing the question.
->> If Yes, leave application
->> If No, continue
+>> Choose "Route Planner"  
+>> The program will reply "Where would you like to go today?" (show list of commonly visited places)  
+>> The user must choose an option  
+>> The program will show a miniature figure walking to that place on a route picked by the GPS on a map.  
+>> The program will reply "Where would you like to go next?" (show list of commonly visited places)  
+>> The user must choose an option  
+>> The program will show a miniature figure walking to that place on a route picked by the GPS on a map.  
+>> Note:  
+>> Show "Would you like to exit this application?" every time before showing the question.  
+>> If Yes, leave application  
+>> If No, continue  
 > Wayfinder
->> Choose "I am lost. Where do I go?"
->> The program will reply "Would you like to go home?"
->> If Yes, show GPS route home.
->> If No, show place user was at last and highlight the specific part of the route the user had planned that they are at now.
-> Note: To use "Route Planner" and "Wayfinder", the user needs to input 5-6 commonly visited places
+>> Choose "I am lost. Where do I go?"  
+>> The program will reply "Would you like to go home?"  
+>> If Yes, show GPS route home.  
+>> If No, show place user was at last and highlight the specific part of the route the user had planned that they are at now.  
+> Note: To use "Route Planner" and "Wayfinder", the user needs to input 5-6 commonly visited places  
 
 # External Scanning
 > [Lumosity](https://www.lumosity.com/en/)
