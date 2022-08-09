@@ -7,4 +7,4 @@
 
 [Development Log](devlog.md)
 
-[Rubric](rubric.md)
+[Rubric](rubric.log)
